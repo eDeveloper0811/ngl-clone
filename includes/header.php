@@ -1,3 +1,6 @@
+<?php
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -22,7 +25,7 @@
         referrerpolicy="no-referrer" />
 
     <!-- styles -->
-    <link rel="stylesheet" href="../public/css/style.css" />
+    <link rel="stylesheet" href="<?= getBaseUrl() ?>public/assets/css/styles.css" />
 </head>
 
 <body>

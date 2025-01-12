@@ -6,7 +6,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 <!-- scripts -->
-<script src="../public/assets/js/script.js"></script>
+<script src="<?= getBaseUrl() ?>public/assets/js/script.js"></script>
 </body>
 
 </html>
